@@ -1,0 +1,12 @@
+{
+    "name": "wireframe-genius",
+    "version": "1.0.0",
+    "description": "A web application for creating interactive wireframes and prototypes.",
+    "main": "index.js",
+    "scripts": {
+        "start": "live-server index.html"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {}
+}
