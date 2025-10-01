@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #007BFF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+#app {
+    border: 1px solid #ccc;
+    padding: 10px;
+    min-height: 400px;
+}
